@@ -1,0 +1,16 @@
+# Build files
+bin/
+obj/
+
+# Code::Blocks generated files
+*.depend
+*.layout
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Original project notes
+functions.docx
