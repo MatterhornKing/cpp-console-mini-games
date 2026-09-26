@@ -6,6 +6,10 @@ The project contains five games implemented from scratch using C++ and the Windo
 
 Each game is separated into its own source and header files, while Common.cpp and Common.h contain shared Windows console utilities.
 
+## Background
+
+This project was originally developed as part of a university C++ Game Development course in 2021. It has been preserved largely in its original form, with minor cleanup to improve readability.
+
 ## Games
 
 ### Snake
